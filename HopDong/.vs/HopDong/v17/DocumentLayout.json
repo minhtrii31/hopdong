@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern\\HopDong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\viewmodels\\userupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\viewmodels\\userupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\userupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\userupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\taohopdong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\taohopdong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\contractupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\contractupdate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|d:\\intern\\hopdong\\hopdong\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{582613BF-CE86-43A4-B4CC-F3C704B1F957}|HopDong\\HopDong.csproj|solutionrelative:hopdong\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserUpdate.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\UserUpdate.xaml",
+              "RelativeDocumentMoniker": "HopDong\\Views\\UserUpdate.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\UserUpdate.xaml",
+              "RelativeToolTip": "HopDong\\Views\\UserUpdate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T05:55:04.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\ViewModels\\UserUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "HopDong\\ViewModels\\UserUpdateViewModel.cs",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\ViewModels\\UserUpdateViewModel.cs",
+              "RelativeToolTip": "HopDong\\ViewModels\\UserUpdateViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:14:21.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\App.xaml",
+              "RelativeDocumentMoniker": "HopDong\\App.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\App.xaml",
+              "RelativeToolTip": "HopDong\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T20:08:50.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HopDong\\App.xaml.cs",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\App.xaml.cs",
+              "RelativeToolTip": "HopDong\\App.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:06:45.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaoHopDong.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\TaoHopDong.xaml",
+              "RelativeDocumentMoniker": "HopDong\\Views\\TaoHopDong.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\TaoHopDong.xaml",
+              "RelativeToolTip": "HopDong\\Views\\TaoHopDong.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:56:43.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractUpdate.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\ContractUpdate.xaml",
+              "RelativeDocumentMoniker": "HopDong\\Views\\ContractUpdate.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\ContractUpdate.xaml",
+              "RelativeToolTip": "HopDong\\Views\\ContractUpdate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:56:30.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "HopDong\\Views\\Home.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\Home.xaml",
+              "RelativeToolTip": "HopDong\\Views\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:55:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "HopDong\\Views\\Login.xaml.cs",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "HopDong\\Views\\Login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:55:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "HopDong\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "HopDong\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:55:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\Intern\\HopDong\\HopDong\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "HopDong\\Views\\Login.xaml",
+              "ToolTip": "D:\\Intern\\HopDong\\HopDong\\Views\\Login.xaml",
+              "RelativeToolTip": "HopDong\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T19:55:03.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

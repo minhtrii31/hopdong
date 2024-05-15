@@ -1,0 +1,103 @@
+﻿<UserControl x:Class="HopDong.Views.TaoHopDong"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/" xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <Grid>
+                <StackPanel Margin="20 10">
+                    <TextBlock Text="Thêm mới hợp đồng" FontSize="28" FontWeight="Bold"/>
+                    <ui:Button Content="Thêm điều khoản" Margin="0 10" HorizontalAlignment="Right" Command="{Binding AddTermCommand}"/>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Mã hợp đồng:" VerticalAlignment="Center"/>
+                        <TextBox Grid.Column="1" VerticalAlignment="Center" Text="{Binding ContractID, Mode=TwoWay}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Tên hợp đồng:" VerticalAlignment="Center"/>
+                        <TextBox Grid.Column="1" VerticalAlignment="Center" Text="{Binding ContractName}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Ngày/tháng/năm:" VerticalAlignment="Center"/>
+                        <DatePicker Grid.Column="1" VerticalAlignment="Center" SelectedDate="{Binding ContractDate, Mode=TwoWay}" />
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Địa điểm ký:" VerticalAlignment="Center"/>
+                        <TextBox Grid.Column="1" VerticalAlignment="Center" Text="{Binding ContractLocation}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Bên A:" VerticalAlignment="Center"/>
+                        <ComboBox Grid.Column="1" VerticalAlignment="Center" ItemsSource="{Binding PartyAOptions}" SelectedItem="{Binding SelectedPartyA}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Bên B:" VerticalAlignment="Center"/>
+                        <ComboBox Grid.Column="1" VerticalAlignment="Center" ItemsSource="{Binding PartyBOptions}" SelectedItem="{Binding SelectedPartyB}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Giá trị hợp đồng:" VerticalAlignment="Center"/>
+                        <TextBox Grid.Column="1" VerticalAlignment="Center" Text="{Binding ContractValue}" />
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Ngày bắt đầu:" VerticalAlignment="Center"/>
+                        <DatePicker Grid.Column="1" VerticalAlignment="Center" SelectedDate="{Binding StartDate, Mode=TwoWay}"/>
+                    </Grid>
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Ngày kết thúc:" VerticalAlignment="Center"/>
+                        <DatePicker Grid.Column="1" VerticalAlignment="Center" SelectedDate="{Binding EndDate, Mode=TwoWay}"/>
+                    </Grid>
+                    <ItemsControl ItemsSource="{Binding Terms}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="0 10">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="150"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Text="{Binding}" VerticalAlignment="Center"/>
+                                    <TextBox Grid.Column="1" VerticalAlignment="Center" />
+                                </Grid>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                    <ui:Button Content="Tạo mới" Margin="0 10" HorizontalAlignment="Right" Command="{Binding GenerateDocumentCommand}"/>
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
